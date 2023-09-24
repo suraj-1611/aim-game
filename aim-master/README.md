@@ -1,3 +1,3 @@
 # Aim Practice
 
-https://toshit-31.github.io/aim/
+https://suraj-1611.github.io/aim-game/aim-master/
